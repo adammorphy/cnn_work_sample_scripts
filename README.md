@@ -1,4 +1,4 @@
-# Convolutional neural network work sample scripts in Tensorflow and PyPorch
+# Convolutional Neural Network Work Sample (Tensorflow and PyPorch)
 
 - This repo contains modified example work scripts implimenting Convolutional Neural Networks as a feature extractor in Tensorflow and PyTorch.
 
